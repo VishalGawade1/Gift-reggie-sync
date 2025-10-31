@@ -1,1 +1,7 @@
 project_id = "qvzvulblxbrkczdrbjhr"
+
+[functions.update-credentials]
+verify_jwt = false
+
+[functions.sync-gift-reggie]
+verify_jwt = false
